@@ -1,2 +1,2 @@
-# machine-learning-introduction
-This is a brief introduction into Machine Learning.
+# Performance Evaluation in Machine Learning
+This is a brief introduction into Performance Evaluation in Machine Learning.
